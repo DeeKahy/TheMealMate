@@ -1,0 +1,27 @@
+{
+  "shoppingList": {
+    "title": "Weekly Groceries",
+    "items": [
+      {
+        "item": "Milk",
+        "unit": "liters"
+      },
+      {
+        "item": "Bread",
+        "unit": "loaf"
+      },
+      {
+        "item": "Apples",
+        "unit": "pieces"
+      },
+      {
+        "item": "Chicken Breast",
+        "unit": "grams"
+      },
+      {
+        "item": "Eggs",
+        "unit": "pieces"
+      }
+    ]
+  }
+}
